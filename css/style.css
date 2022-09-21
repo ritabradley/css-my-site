@@ -17,6 +17,27 @@ body {
 
 .top-container {
 	background-color: #390099;
+	color: #f3f4f8;
+	padding-top: 100px;
+	position: relative;
+}
+
+.top-cloud {
+	position: absolute;
+	top: 5%;
+	right: 30%;
+}
+
+h1{
+	font-family: "Bigshot One", display, serif;
+	font-size: 6rem;
+	margin-top: 0;
+}
+
+.bottom-cloud {
+	position: absolute;
+    top: 35%;
+    left: 30%;
 }
 
 .middle-container {
