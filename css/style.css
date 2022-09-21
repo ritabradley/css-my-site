@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	font-family: 'Alegreya Sans', sans-serif;
+	font-family: "Alegreya Sans", sans-serif;
 	font-size: 1.6rem;
     font-weight: 400;
 	text-align: center;
@@ -34,6 +34,14 @@ h1{
 	margin-top: 0;
 }
 
+h2 {
+	font-family: "Bigshot One", display, serif;
+}
+
+h3 {
+	font-family: "Alegreya Sans", sans-serif;
+}
+
 .bottom-cloud {
 	position: absolute;
     top: 35%;
@@ -41,13 +49,10 @@ h1{
 }
 
 .middle-container {
-	background-color: #F3F4F8;
-	height: 200px;
-	width: 200px;
+	background-color: #f3f4f8;
 }
 
 .bottom-container {
-	background-color: #7D5BAD;
-	height: 200px;
-    width: 200px;
+	background-color: #390099;
+	color: #f3f4f8;
 }
