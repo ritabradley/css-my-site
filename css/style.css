@@ -24,28 +24,41 @@ body {
 
 .top-cloud {
 	position: absolute;
-	top: 5%;
-	right: 30%;
+	top: 10%;
+	right: 20%;
 }
 
-h1{
+.title{
 	font-family: "Bigshot One", display, serif;
-	font-size: 6rem;
-	margin-top: 0;
+	font-size: 9rem;
+	margin: 5rem 0 2rem;
 }
 
-h2 {
+.subtitle{
+	font-size: 2.4rem;
+}
+
+
+.section-heading {
 	font-family: "Bigshot One", display, serif;
+	font-size: 3.2rem;
 }
 
 h3 {
 	font-family: "Alegreya Sans", sans-serif;
+	color: #BC7AA6;
+}
+
+.footer-link {
+	color: #BC7AA6;
+	text-decoration: none;
+	padding: 0 1rem;
 }
 
 .bottom-cloud {
 	position: absolute;
-    top: 35%;
-    left: 30%;
+    top: 45%;
+    left: 20%;
 }
 
 .middle-container {
@@ -55,4 +68,5 @@ h3 {
 .bottom-container {
 	background-color: #390099;
 	color: #f3f4f8;
+	padding: 2rem 0;
 }
